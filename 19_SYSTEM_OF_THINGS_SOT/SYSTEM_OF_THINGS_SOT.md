@@ -1,0 +1,25 @@
+# System of Things (SOT) — NICEHASHQUICKMINER
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** NICEHASHQUICKMINER | Category: CRYPTOCURRENCY
+**Upstream:** https://github.com/nicehash/NiceHashQuickMiner (MIT)
+
+## Overview
+
+This document covers system of things (sot) for the Anticloud integration of NICEHASHQUICKMINER.
+
+Mining management tool
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into NICEHASHQUICKMINER to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
