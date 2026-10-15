@@ -1,0 +1,53 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:1e626b0d-81b5-5b86-94d4-1e26744b74b7",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-12T06:34:45Z",
+    "component": {
+      "type": "application",
+      "name": "NICEHASHQUICKMINER",
+      "version": "b9900ff8e3c6",
+      "bom-ref": "pkg:generic/anticloud/NICEHASHQUICKMINER@b9900ff8e3c6",
+      "purl": "pkg:generic/anticloud/NICEHASHQUICKMINER@b9900ff8e3c6",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "b9900ff8e3c6f8e5a46af18db454f2a2082d9f46"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": ""
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "Threads",
+      "version": "unspecified",
+      "purl": "pkg:generic/Threads",
+      "bom-ref": "native/Threads@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "Boost",
+      "version": "unspecified",
+      "purl": "pkg:generic/Boost",
+      "bom-ref": "native/Boost@unspecified"
+    }
+  ]
+}
