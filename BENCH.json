@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "NICEHASHQUICKMINER",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CRYPTOCURRENCY\\NICEHASHQUICKMINER\\UPSTREAM_CLONE",
   "git": {
-   "head": "b9900ff8e3c6f8e5a46af18db454f2a2082d9f46",
-   "url": "https://github.com/nicehash/nheqminer",
-   "branch": "master",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12 | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/nicehash/NiceHashQuickMiner",
+   "head": "fea94d384103118be0d8c2675ad263060d6fb45f",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/nicehash/nheqminer"
   }
  },
  "metrics": {
